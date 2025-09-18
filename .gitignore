@@ -1,0 +1,7 @@
+
+
+botifarres/.venv/*
+
+botifarres/__pycache__/*
+botifarres/.pytest_cache/*
+botifarres/test/__pycache__/*
